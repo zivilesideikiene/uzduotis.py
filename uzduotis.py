@@ -1,4 +1,4 @@
-# Uzduotis: veikia
+# Uzduotis:
 # Leistų žaisti dviems žaidėjams (X ir O)+++
 # Teisingai fiksuotų žaidėjo laimėjimą ir stabdytų žaidimą+++
 # Žaidimas vyktų konsolėje, grafinio interfeiso nereikia (bet galima daryti, tada konsolės nebereikia)+++
